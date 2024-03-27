@@ -1,1 +1,2 @@
 # OSSPracLHY
+print("Hello LHY!")
